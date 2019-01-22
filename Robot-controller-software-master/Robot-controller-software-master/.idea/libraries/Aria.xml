@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Aria">
+    <CLASSES>
+      <root url="jar:///usr/local/Aria/java/Aria.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
